@@ -14,7 +14,7 @@
 <h3 align="left">Check out my Discord bot:</h3>
 <p align="left"><a href="https://discord.com/api/oauth2/authorize?client_id=722502188982599741&permissions=8&scope=bot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="133564" height="30" width="40" /></a></p>
 
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -36,5 +36,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#2205](https://github.com/webpack/webpack-cli/pull/2205) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#4267](https://github.com/webpack/webpack.js.org/pull/4267) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
+3. 💪 Opened PR [#2204](https://github.com/webpack/webpack-cli/pull/2204) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#2202](https://github.com/webpack/webpack-cli/pull/2202) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#2195](https://github.com/webpack/webpack-cli/pull/2195) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
