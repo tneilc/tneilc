@@ -33,4 +33,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tneilc&show_icons=true&locale=en&layout=compact" alt="tneilc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tneilc&show_icons=true&locale=en" alt="tneilc" /></p>
 
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
