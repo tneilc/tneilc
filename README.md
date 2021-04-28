@@ -17,7 +17,10 @@
 
 
 <h3 align="right"><a  href="https://github.com/tneilc/DuhEditor">Currently Working On:</a></h3>
-<p align="right"><a style="font-size:20px;" href="https://github.com/tneilc/DuhEditor">Duh Editor</a></p>
+<h1 align="right">
+  asdasdsad
+  sadsad
+<h1>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
