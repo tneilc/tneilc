@@ -5,12 +5,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<h4 align="left">Discord :
-  
-```
-Client#2308
-``` 
-</h4>
+<h4 align="left"><strong>Discord</strong> : Client#2308</h4>
 
 
 <h3 align="left">Sum Sites You Can Find Me</h3>
