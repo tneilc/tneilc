@@ -25,7 +25,7 @@
 </h3>
 
 
-<h3 align="right">Sum Sites You Can Find Me</h3>
+<h3 align="right">Sum Sites You Can Find Me :</h3>
 <p align="right">
 <a href="https://www.hackerrank.com/tneilc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tneilc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13818294" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13818294" height="30" width="40" /></a>
