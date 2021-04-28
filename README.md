@@ -5,6 +5,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">Discord : `Client#2308`</h4>
+
+
+<h3 align="left">Sum Sites You Can Find Me</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/tneilc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tneilc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13818294" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13818294" height="30" width="40" /></a>
@@ -12,8 +16,6 @@
 </p>
 
 
-<h3 align="left">Check out my Discord bot:</h3>
-<p align="left"><a href="https://discord.com/api/oauth2/authorize?client_id=722502188982599741&permissions=8&scope=bot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="133564" height="30" width="40" /></a></p>
 
 
 <h1 align="right"><a  href="https://github.com/tneilc/DuhEditor">Currently Working On:</a></h1>
