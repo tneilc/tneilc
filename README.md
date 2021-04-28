@@ -32,6 +32,7 @@
 <a href="https://www.leetcode.com/tneilc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tneilc" height="30" width="40" /></a>
 </p>
 
+---
 
 
 
@@ -47,7 +48,7 @@ If you want to check it out click that <h3> tag
 
 </h3>
 
----
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a align="left" href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
