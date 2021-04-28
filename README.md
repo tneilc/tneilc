@@ -12,6 +12,7 @@
   {
   public:
     Me();
+    ~Me();
     
   public:
     this->Discord = Client#2308;
