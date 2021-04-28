@@ -18,9 +18,11 @@
 
 <h1 align="right"><a  href="https://github.com/tneilc/DuhEditor">Currently Working On:</a></h1>
 <h3 align="right">
-```
+```c++
+ ​
 I am currently working on Duh Editor. Duh is a code editor which inspired by notepad++. 
 If you want to check it out click that <h3> tag.
+ ​
 ```
 
 </h3>
