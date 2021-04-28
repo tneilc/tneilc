@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Metehan</h1>
 <h3 align="center">A Student, Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tneilc&label=Profile%20views&color=0e75b6&style=flat" alt="tneilc" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tneilc&label=Profile%20views&color=0e75b6&style=flat" alt="tneilc" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
