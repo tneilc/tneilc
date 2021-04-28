@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Currently Working On:</h3>
-<p align="right">[Duh Editor](https://github.com/tneilc/DuhEditor)
+<p align="right"><a href="https://github.com/tneilc/DuhEditor">Duh Editor</a></p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
