@@ -4,8 +4,23 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tneilc&label=Profile%20views&color=0e75b6&style=flat" alt="tneilc" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<h4 align="left"><strong>Discord</strong> : Client#2308</h4>
+<h1 align="left">Connect with me:</h1>
+<h3 align="left">
+  
+  ```c++
+  class Me : public ScriptKiddie
+  {
+  public:
+    Me();
+    
+  public:
+    this->Discord = Client#2308;
+    
+  private:
+    this->OnlyFans = nullptr;
+  }
+  ```
+</h3>
 
 
 <h3 align="left">Sum Sites You Can Find Me</h3>
