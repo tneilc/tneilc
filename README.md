@@ -15,6 +15,10 @@
 <h3 align="left">Check out my Discord bot:</h3>
 <p align="left"><a href="https://discord.com/api/oauth2/authorize?client_id=722502188982599741&permissions=8&scope=bot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="133564" height="30" width="40" /></a></p>
 
+
+<h3 align="left">Currently Working On:</h3>
+<p align="right">[Duh Editor](https://github.com/tneilc/DuhEditor)
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
