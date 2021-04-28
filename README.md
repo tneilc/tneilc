@@ -16,7 +16,7 @@
 <p align="left"><a href="https://discord.com/api/oauth2/authorize?client_id=722502188982599741&permissions=8&scope=bot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="133564" height="30" width="40" /></a></p>
 
 
-<h3 align="right" href="https://github.com/tneilc/DuhEditor">Currently Working On:</h3>
+<h3 align="right"><a  href="https://github.com/tneilc/DuhEditor">Currently Working On:</a></h3>
 <p align="right"><a style="font-size:20px;" href="https://github.com/tneilc/DuhEditor">Duh Editor</a></p>
 
 ---
