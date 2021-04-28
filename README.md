@@ -49,7 +49,7 @@ If you want to check it out click that <h3> tag
 </h3>
 
 
-<h2 align="left" style="border-bottom: none;">Languages and Tools:</h2>
+<h3 align="left" style="border-bottom: none;">Languages and Tools:</h3>
 <p align="left"> 
 <a align="left" href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a align="left" href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
