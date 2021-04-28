@@ -25,7 +25,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tneilc&theme=nord" alt="tneilc" /></p>
+<p><img align="left" href="https://github.com/tneilc?tab=repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tneilc&theme=nord" alt="tneilc" /></p>
 <p> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tneilc&show_icons=true&locale=en&theme=onedark"alt="tneilc" /></p>
+<p>&nbsp;<img align="center" href="https://github.com/tneilc" src="https://github-readme-stats.vercel.app/api?username=tneilc&show_icons=true&locale=en&theme=nord"alt="tneilc" /></p>
 
