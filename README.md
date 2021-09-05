@@ -41,7 +41,7 @@
   
 ```c++
 ​
-I am currently working on an Chat App which looks like Discord. 
+I am currently working on a Chat App which looks like Discord. 
 ​
 ```
 
