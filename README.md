@@ -52,7 +52,7 @@ I am currently working on a Chat App which looks like Discord.
 <p align="left"> 
 <a align="left" href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a align="left" href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a align="left" href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/C-Sharp.png" alt="csharp" width="40" height="40"/> </a> 
+<a align="left" href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Csharp_Logo.png/640px-Csharp_Logo.png" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
