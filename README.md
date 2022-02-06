@@ -8,7 +8,7 @@
 <h3 align="left">
   
   ```c++
-  class Me : public Newbie
+  class Me : public Paster
   {
   public:
     Me();
